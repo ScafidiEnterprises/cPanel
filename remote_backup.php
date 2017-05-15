@@ -1,15 +1,15 @@
 <?php
-$cpaneluser = 'scaffhiz';
-$cpaneluserpass = '!PJ-Z%T~2bDV6V$1';
+$cpaneluser = 'cPanel User';
+$cpaneluserpass = 'cPanel Pass';
 $theme = 'paper_lantern';
 $ftp = true;
-$ftpserver = '71.229.186.83';
-$ftpusername = 'backups';
-$ftppassword = 'aPagEuGXbVgUEn2w';
+$ftpserver = 'host ip/domain';
+$ftpusername = 'ftp user';
+$ftppassword = 'ftp pass';
 $ftpport = '21098';
-$ftpdirectory = '/mnt/ext/Backups/TKMSP_Remote_Backups';
+$ftpdirectory = '/must/exist/first/';
 
-#$notifyemail = admin@turnkeymsp.net
+#$notifyemail = admin@turnkeymsp.net (not sure about syntax)
 
 // DO NOT EDIT BELOW THIS LINE
 
