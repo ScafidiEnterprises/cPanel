@@ -1,15 +1,15 @@
 #!/usr/bin/env php
 
 <?php
-$cpaneluser = 'scaffhiz';
-$cpaneluserpass = '!PJ-Z%T~2bDV6V$1';
+$cpaneluser = 'cPanel User';
+$cpaneluserpass = 'cPanel Pass';
 $theme = 'paper_lantern';
 $ftp = false;
 $ftpserver = 'localhost';
-$ftpusername = 'scaffhiz';
-$ftppassword = '!PJ-Z%T~2bDV6V$1';
-$ftpport = '21098';
-$ftpdirectory = '/home/scaffhiz/backups';
+$ftpusername = 'cPanel User';
+$ftppassword = 'cPanel Pass';
+$ftpport = 'port protocol is running on';
+$ftpdirectory = '/folder/must/exist';
 
 
 // Do not edit below this line
